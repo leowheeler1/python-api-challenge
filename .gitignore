@@ -1,6 +1,5 @@
 # Adding config.py file.
-api_keys.py
-
+weatherpy/api_keys.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +171,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+weatherpy/api_keys.py
+weatherpy/api_keys.py
